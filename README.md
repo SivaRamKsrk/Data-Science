@@ -1,1 +1,1 @@
-# ML_DL_NOTES
+Contains notes related to ML, DL, NLP and SQL.
